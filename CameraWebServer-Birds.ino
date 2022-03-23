@@ -9,8 +9,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "op";
-const char* password = "Granby18!";
+const char* ssid = "xx";
+const char* password = "xxx";
 
 const char* ntpServer = "pool.ntp.org";
 //-5 from GMT * 60 s/min * 60 min/hr
